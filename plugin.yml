@@ -1,0 +1,10 @@
+name: Guns
+main: itoozh\guns\Main
+version: 1.0.0
+api: 5.0.0
+authors:
+  - itoozh
+  - Nyrok
+
+depend:
+  - Customies
